@@ -1,5 +1,5 @@
 # Shell-Scripts
-Some Custom Shell Scriptc Written By Armoghan.
+Some Custom Shell Scriptc.
 
 # How to Clone my Project
       git clone https://github.com/Master-Chief07/Shell-Scripting
