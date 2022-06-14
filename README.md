@@ -2,8 +2,7 @@
 Some Custom Shell Scriptc Written By Armoghan.
 
 # How to Clone my Project
-      git clone https://github.com/Armoghan-ul-Mohmin/Shell-Scripts.git
-
+      git clone https://github.com/Master-Chief07/Shell-Scripting
 # 1st Script:Docker Install   
 
    Main Menu
